@@ -1,0 +1,1 @@
+print("Anastasiia Tuhai, SE-2025")
